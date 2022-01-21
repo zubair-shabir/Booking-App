@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    outline: none;
+
+}
+
+body{
+    background: #878f99;
+    color: #fff;
+}
+
+.form-group .btn-form{
+    background: #11dbcf;
+    border:2px solid #11dbcf;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+}
+ul {
+    display: flex;
+}
+
+ul li{
+    padding: 20px 40px !important;
+    margin:20px;
+}
